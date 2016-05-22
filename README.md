@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 what been modified adding deployment now and this will be fine fine too
 
 ##CopyRight
-copy
+copy right
