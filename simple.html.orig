@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+	<title>simple title copyright</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+		</p>
+	</main>
+	<footer class="container">
+<<<<<<< a2cd5bb12ba89c400ff68ba8ad499765589208f3
+		<p>&copy; my compact company 2016</p>
+=======
+		<p>&copy; my compact Company 2016</p>
+>>>>>>> add
+	</footer>
+</body>
+</html>
